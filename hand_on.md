@@ -2,6 +2,8 @@
     sin(α+β)=sin(α)cos(β)+cos(α)sin(β)をマークダウンで表示
 -->
 
+$$ \sin\theta = \cos\theta + i\sin\theta $$
+
 <!--
     次のような表を作成
 

@@ -12,3 +12,7 @@ $$ \sin\theta = \cos\theta + i\sin\theta $$
     |Alice|192.168.0.1|80|
     |Bob|www.example.jp|443|
 -->
+|  user  |  host           |  port |
+|  :-:  | :-            |  - |
+|  Alice |  192.168.0.1    |   80  |
+|  Bob   |  www.example.jp |  443 |
